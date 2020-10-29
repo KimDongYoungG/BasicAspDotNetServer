@@ -1,18 +1,23 @@
 [
   {
-    "id": "jenlooper-cactus",
-    "maker": "@jenlooper",
-    "img": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201025T040354Z&X-Amz-Expires=86400&X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22",
-    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201025T040354Z&X-Amz-Expires=86400&X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22",
-    "title": "Go",
-    "description": "Back"
+    "Id": "jenlooper-cactus",
+    "Maker": "@jenlooper",
+    "img": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20201025T040354Z\u0026X-Amz-Expires=86400\u0026X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d\u0026X-Amz-SignedHeaders=host\u0026response-content-disposition=filename%20%3D%22Untitled.png%22",
+    "Url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20201025T040354Z\u0026X-Amz-Expires=86400\u0026X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d\u0026X-Amz-SignedHeaders=host\u0026response-content-disposition=filename%20%3D%22Untitled.png%22",
+    "Title": "Go",
+    "Description": "Back",
+    "Ratings": null
   },
   {
-    "id": "dylan.kim-free",
-    "maker": "@dylan",
-    "img": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201025T040354Z&X-Amz-Expires=86400&X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22",
-    "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201025T040354Z&X-Amz-Expires=86400&X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22",
-    "title": "Dylan is Back",
-    "description": "Good"
+    "Id": "dylan.kim-free",
+    "Maker": "@dylan",
+    "img": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20201025T040354Z\u0026X-Amz-Expires=86400\u0026X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d\u0026X-Amz-SignedHeaders=host\u0026response-content-disposition=filename%20%3D%22Untitled.png%22",
+    "Url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1dc71798-4276-44fc-8812-5e48778ff77e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201025%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20201025T040354Z\u0026X-Amz-Expires=86400\u0026X-Amz-Signature=ea68f6b4356dfa4b5a6c7d60a590566b3e71cbf5eb9e1490c24aa5cc6c8f605d\u0026X-Amz-SignedHeaders=host\u0026response-content-disposition=filename%20%3D%22Untitled.png%22",
+    "Title": "Dylan is Back",
+    "Description": "Good",
+    "Ratings": [
+      5,
+      4
+    ]
   }
 ]
